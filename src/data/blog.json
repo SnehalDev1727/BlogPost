@@ -1,0 +1,34 @@
+{
+"data":[
+{
+"id":1,
+"blogCategory":"Featured",
+"blogTitle":"Best practices for responsive web design",
+"postedOn":"July 25, 2020",
+"blogImage":"Responsive_Web_design_iEngageIT.jpg",
+"postedBy":"Ritu bhatt",
+"blogText":"If you are looking for responsive web site development then you are on the right page. Every new trend comes up in this tech world and web technology is a very emerging trend of these days. Website is the first impression of every business so it’s more important to follow the best practices at the time of development."
+
+},
+{
+"id":2,
+"blogCategory":"Simple",
+"blogTitle":"RPA",
+"postedOn":"July 26, 2020",
+"blogImage":"RPA.jpg",
+"blogText":"If you are looking for responsive web site development then you are on the right page. Every new trend comes up in this tech world and web technology is a very emerging trend of these days. Website is the first impression of every business so it’s more important to follow the best practices at the time of development.",
+"postedBy":"Sunny Rajdeep"
+},
+{
+    "id":3,
+    "blogCategory":"Simple",
+    "blogTitle":"Our new website",
+    "postedOn":"July 26, 2020",
+    "blogImage":"Responsive_Web_design_iEngageIT.jpg",
+    "postedBy":"Ritu bhatt",
+    "blogText":"If you are looking for responsive web site development then you are on the right page. Every new trend comes up in this tech world and web technology is a very emerging trend of these days. Website is the first impression of every business so it’s more important to follow the best practices at the time of development."
+    
+    }
+
+]
+}
